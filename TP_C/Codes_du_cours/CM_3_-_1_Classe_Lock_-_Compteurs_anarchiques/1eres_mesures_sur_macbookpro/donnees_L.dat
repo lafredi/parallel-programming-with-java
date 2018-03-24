@@ -1,0 +1,145 @@
+# Tests d'attentes sur macbookpro DATE: 2017-01-19 HEURE: 10:13:49
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 1 threads.
+  #_CHRONO_#   soit 10000000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  1 205  #_CHRONO_#  205 ms.  pour 1  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 2 threads.
+  #_CHRONO_#   soit 5000000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  2 1519  #_CHRONO_#  1519 ms.  pour 2  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999999 actions avec 3 threads.
+  #_CHRONO_#   soit 3333333 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  3 362  #_CHRONO_#  362 ms.  pour 3  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 4 threads.
+  #_CHRONO_#   soit 2500000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  4 379  #_CHRONO_#  379 ms.  pour 4  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 5 threads.
+  #_CHRONO_#   soit 2000000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  5 508  #_CHRONO_#  508 ms.  pour 5  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999996 actions avec 6 threads.
+  #_CHRONO_#   soit 1666666 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  6 526  #_CHRONO_#  526 ms.  pour 6  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999997 actions avec 7 threads.
+  #_CHRONO_#   soit 1428571 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  7 436  #_CHRONO_#  436 ms.  pour 7  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 8 threads.
+  #_CHRONO_#   soit 1250000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  8 443  #_CHRONO_#  443 ms.  pour 8  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999999 actions avec 9 threads.
+  #_CHRONO_#   soit 1111111 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  9 387  #_CHRONO_#  387 ms.  pour 9  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 10 threads.
+  #_CHRONO_#   soit 1000000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  10 588  #_CHRONO_#  588 ms.  pour 10  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 11 threads.
+  #_CHRONO_#   soit 909090 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  11 433  #_CHRONO_#  433 ms.  pour 11  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999996 actions avec 12 threads.
+  #_CHRONO_#   soit 833333 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  12 585  #_CHRONO_#  585 ms.  pour 12  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 13 threads.
+  #_CHRONO_#   soit 769230 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  13 444  #_CHRONO_#  444 ms.  pour 13  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 14 threads.
+  #_CHRONO_#   soit 714285 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  14 442  #_CHRONO_#  442 ms.  pour 14  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 15 threads.
+  #_CHRONO_#   soit 666666 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  15 428  #_CHRONO_#  428 ms.  pour 15  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 16 threads.
+  #_CHRONO_#   soit 625000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  16 573  #_CHRONO_#  573 ms.  pour 16  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 18 threads.
+  #_CHRONO_#   soit 555555 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  18 587  #_CHRONO_#  587 ms.  pour 18  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 20 threads.
+  #_CHRONO_#   soit 500000 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  20 580  #_CHRONO_#  580 ms.  pour 20  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 22 threads.
+  #_CHRONO_#   soit 454545 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  22 425  #_CHRONO_#  425 ms.  pour 22  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999984 actions avec 24 threads.
+  #_CHRONO_#   soit 416666 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  24 592  #_CHRONO_#  592 ms.  pour 24  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 26 threads.
+  #_CHRONO_#   soit 384615 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  26 440  #_CHRONO_#  440 ms.  pour 26  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999976 actions avec 28 threads.
+  #_CHRONO_#   soit 357142 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  28 573  #_CHRONO_#  573 ms.  pour 28  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 9999990 actions avec 30 threads.
+  #_CHRONO_#   soit 333333 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  30 589  #_CHRONO_#  589 ms.  pour 30  threads
+  #_CHRONO_#   Date du test : 19/01/17 10:14 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 10000000 actions avec 32 threads.
+  #_CHRONO_#   soit 312500 actions par thread.
+  #_CHRONO_#   Mode d'action adopté: L
+  32 440  #_CHRONO_#  440 ms.  pour 32  threads

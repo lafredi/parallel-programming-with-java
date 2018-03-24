@@ -1,0 +1,253 @@
+% GNUPLOT: LaTeX picture using PSTRICKS macros
+% Define new PST objects, if not already defined
+\ifx\PSTloaded\undefined
+\def\PSTloaded{t}
+\psset{arrowsize=.01 3.2 1.4 .3}
+\psset{dotsize=.01}
+\catcode`@=11
+
+\newpsobject{PST@Border}{psline}{linewidth=.0015,linestyle=solid}
+\newpsobject{PST@Axes}{psline}{linewidth=.0015,linestyle=dotted,dotsep=.004}
+\newpsobject{PST@Solid}{psline}{linewidth=.0015,linestyle=solid}
+\newpsobject{PST@Dashed}{psline}{linewidth=.0015,linestyle=dashed,dash=.01 .01}
+\newpsobject{PST@Dotted}{psline}{linewidth=.0025,linestyle=dotted,dotsep=.008}
+\newpsobject{PST@LongDash}{psline}{linewidth=.0015,linestyle=dashed,dash=.02 .01}
+\newpsobject{PST@Diamond}{psdots}{linewidth=.001,linestyle=solid,dotstyle=square,dotangle=45}
+\newpsobject{PST@Filldiamond}{psdots}{linewidth=.001,linestyle=solid,dotstyle=square*,dotangle=45}
+\newpsobject{PST@Cross}{psdots}{linewidth=.001,linestyle=solid,dotstyle=+,dotangle=45}
+\newpsobject{PST@Plus}{psdots}{linewidth=.001,linestyle=solid,dotstyle=+}
+\newpsobject{PST@Square}{psdots}{linewidth=.001,linestyle=solid,dotstyle=square}
+\newpsobject{PST@Circle}{psdots}{linewidth=.001,linestyle=solid,dotstyle=o}
+\newpsobject{PST@Triangle}{psdots}{linewidth=.001,linestyle=solid,dotstyle=triangle}
+\newpsobject{PST@Pentagon}{psdots}{linewidth=.001,linestyle=solid,dotstyle=pentagon}
+\newpsobject{PST@Fillsquare}{psdots}{linewidth=.001,linestyle=solid,dotstyle=square*}
+\newpsobject{PST@Fillcircle}{psdots}{linewidth=.001,linestyle=solid,dotstyle=*}
+\newpsobject{PST@Filltriangle}{psdots}{linewidth=.001,linestyle=solid,dotstyle=triangle*}
+\newpsobject{PST@Fillpentagon}{psdots}{linewidth=.001,linestyle=solid,dotstyle=pentagon*}
+\newpsobject{PST@Arrow}{psline}{linewidth=.001,linestyle=solid}
+\catcode`@=12
+
+\fi
+\psset{unit=5.0in,xunit=5.0in,yunit=3.0in}
+\pspicture(0.000000,0.000000)(1.000000,1.000000)
+\ifx\nofigs\undefined
+\catcode`@=11
+
+\PST@Border(0.1620,0.1344)
+(0.1770,0.1344)
+
+\PST@Border(0.9519,0.1344)
+(0.9369,0.1344)
+
+\rput[r](0.1460,0.1344){ 1000}
+\PST@Border(0.1620,0.2400)
+(0.1770,0.2400)
+
+\PST@Border(0.9519,0.2400)
+(0.9369,0.2400)
+
+\rput[r](0.1460,0.2400){ 2000}
+\PST@Border(0.1620,0.3457)
+(0.1770,0.3457)
+
+\PST@Border(0.9519,0.3457)
+(0.9369,0.3457)
+
+\rput[r](0.1460,0.3457){ 3000}
+\PST@Border(0.1620,0.4513)
+(0.1770,0.4513)
+
+\PST@Border(0.9519,0.4513)
+(0.9369,0.4513)
+
+\rput[r](0.1460,0.4513){ 4000}
+\PST@Border(0.1620,0.5570)
+(0.1770,0.5570)
+
+\PST@Border(0.9519,0.5570)
+(0.9369,0.5570)
+
+\rput[r](0.1460,0.5570){ 5000}
+\PST@Border(0.1620,0.6626)
+(0.1770,0.6626)
+
+\PST@Border(0.9519,0.6626)
+(0.9369,0.6626)
+
+\rput[r](0.1460,0.6626){ 6000}
+\PST@Border(0.1620,0.7683)
+(0.1770,0.7683)
+
+\PST@Border(0.9519,0.7683)
+(0.9369,0.7683)
+
+\rput[r](0.1460,0.7683){ 7000}
+\PST@Border(0.1620,0.8739)
+(0.1770,0.8739)
+
+\PST@Border(0.9519,0.8739)
+(0.9369,0.8739)
+
+\rput[r](0.1460,0.8739){ 8000}
+\PST@Border(0.2147,0.1344)
+(0.2147,0.1544)
+
+\PST@Border(0.2147,0.8739)
+(0.2147,0.8539)
+
+\rput(0.2147,0.0924){ 2}
+\PST@Border(0.3200,0.1344)
+(0.3200,0.1544)
+
+\PST@Border(0.3200,0.8739)
+(0.3200,0.8539)
+
+\rput(0.3200,0.0924){ 4}
+\PST@Border(0.4253,0.1344)
+(0.4253,0.1544)
+
+\PST@Border(0.4253,0.8739)
+(0.4253,0.8539)
+
+\rput(0.4253,0.0924){ 6}
+\PST@Border(0.5306,0.1344)
+(0.5306,0.1544)
+
+\PST@Border(0.5306,0.8739)
+(0.5306,0.8539)
+
+\rput(0.5306,0.0924){ 8}
+\PST@Border(0.6359,0.1344)
+(0.6359,0.1544)
+
+\PST@Border(0.6359,0.8739)
+(0.6359,0.8539)
+
+\rput(0.6359,0.0924){ 10}
+\PST@Border(0.7413,0.1344)
+(0.7413,0.1544)
+
+\PST@Border(0.7413,0.8739)
+(0.7413,0.8539)
+
+\rput(0.7413,0.0924){ 12}
+\PST@Border(0.8466,0.1344)
+(0.8466,0.1544)
+
+\PST@Border(0.8466,0.8739)
+(0.8466,0.8539)
+
+\rput(0.8466,0.0924){ 14}
+\PST@Border(0.9519,0.1344)
+(0.9519,0.1544)
+
+\PST@Border(0.9519,0.8739)
+(0.9519,0.8539)
+
+\rput(0.9519,0.0924){ 16}
+\PST@Border(0.1620,0.8739)
+(0.1620,0.1344)
+(0.9519,0.1344)
+(0.9519,0.8739)
+(0.1620,0.8739)
+
+\rput{L}(0.0290,0.5041){Temps de calcul (en ms.)}
+\rput(0.5569,0.0294){Nombre de threads}
+\rput(0.5569,0.9369){Estimation de PI/4 avec 1 millliard de tirages}
+\rput[r](0.8249,0.8329){LockFree}
+\PST@Solid(0.8409,0.8329)
+(0.9199,0.8329)
+
+\PST@Solid(0.1620,0.8257)
+(0.1620,0.8257)
+(0.2147,0.4383)
+(0.2673,0.3135)
+(0.3200,0.2641)
+(0.3726,0.2492)
+(0.4253,0.2190)
+(0.4780,0.2076)
+(0.5306,0.1936)
+(0.5833,0.2264)
+(0.6359,0.2029)
+(0.6886,0.2409)
+(0.7413,0.2072)
+(0.7939,0.2400)
+(0.8466,0.2399)
+(0.8992,0.2452)
+(0.9519,0.2471)
+
+\rput[r](0.8249,0.7909){ThreadPool}
+\PST@Dashed(0.8409,0.7909)
+(0.9199,0.7909)
+
+\PST@Dashed(0.1620,0.8333)
+(0.1620,0.8333)
+(0.2147,0.4476)
+(0.2673,0.3136)
+(0.3200,0.2611)
+(0.3726,0.2649)
+(0.4253,0.2440)
+(0.4780,0.2294)
+(0.5306,0.2113)
+(0.5833,0.2481)
+(0.6359,0.2536)
+(0.6886,0.2186)
+(0.7413,0.2198)
+(0.7939,0.2331)
+(0.8466,0.2556)
+(0.8992,0.2594)
+(0.9519,0.2529)
+
+\rput[r](0.8249,0.7489){Futures}
+\PST@Dotted(0.8409,0.7489)
+(0.9199,0.7489)
+
+\PST@Dotted(0.1620,0.8261)
+(0.1620,0.8261)
+(0.2147,0.4523)
+(0.2673,0.3258)
+(0.3200,0.2848)
+(0.3726,0.2717)
+(0.4253,0.2468)
+(0.4780,0.2324)
+(0.5306,0.2180)
+(0.5833,0.2184)
+(0.6359,0.2529)
+(0.6886,0.2554)
+(0.7413,0.2758)
+(0.7939,0.2855)
+(0.8466,0.2607)
+(0.8992,0.2790)
+(0.9519,0.2714)
+
+\rput[r](0.8249,0.7069){Service de completion}
+\PST@LongDash(0.8409,0.7069)
+(0.9199,0.7069)
+
+\PST@LongDash(0.1620,0.8643)
+(0.1620,0.8643)
+(0.2147,0.4493)
+(0.2673,0.3274)
+(0.3200,0.2937)
+(0.3726,0.2876)
+(0.4253,0.2754)
+(0.4780,0.2523)
+(0.5306,0.2356)
+(0.5833,0.2388)
+(0.6359,0.2472)
+(0.6886,0.2854)
+(0.7413,0.2397)
+(0.7939,0.2906)
+(0.8466,0.2886)
+(0.8992,0.2591)
+(0.9519,0.2882)
+
+\PST@Border(0.1620,0.8739)
+(0.1620,0.1344)
+(0.9519,0.1344)
+(0.9519,0.8739)
+(0.1620,0.8739)
+
+\catcode`@=12
+\fi
+\endpspicture

@@ -1,0 +1,49 @@
+// -*- coding: utf-8 -*-
+
+class Buffer {
+    private byte[] elements;
+    private int nrElements;
+    Buffer(int maxNrElements) {
+        this.elements = new byte[maxNrElements];
+        this.nrElements = 0;
+    }
+    synchronized void produire(byte b) {
+        while (nrElements == elements.length) {
+            try { wait(); }
+            catch (InterruptedException e) { e.printStackTrace(); }
+        }
+        elements[nrElements] = b;
+        nrElements++;
+        notify();
+        System.out.print("("+nrElements+")");
+    } 
+    synchronized byte consommer() {
+        while (nrElements == 0) {
+            try { wait(); }
+            catch (InterruptedException e) { e.printStackTrace(); }
+        }
+        byte element = elements[nrElements - 1];
+        nrElements--;
+        notify();
+        System.out.print("("+nrElements+")");
+        return element;
+    }
+
+    public static void main(String[] argv){
+        Buffer buffer = new Buffer(1);
+        for(int i=0; i<2; i++)
+            new Consommateur(buffer);
+        for(int i=0; i<2; i++)
+            new Producteur(buffer);
+    }	
+}
+
+	
+/*
+$ java Buffer
+(1)(0)  CTRL+C
+$ java Buffer
+(1)(0)(1)(0) CTRL+C
+$ java Buffer
+(1)(0)(1)(0)(1)(0)(1)(0)(1)(0)(1)(0) CTRL+C
+*/

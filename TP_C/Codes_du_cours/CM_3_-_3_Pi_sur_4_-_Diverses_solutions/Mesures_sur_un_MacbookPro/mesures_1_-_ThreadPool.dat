@@ -1,0 +1,97 @@
+# Mesure de MonteCarlo.java dans 1_-_ThreadPool sur MacbookPro (DATE: 2017-02-04 HEURE: 16:25:10)
+  #_CHRONO_#   Date du test : 04/02/17 16:25 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 1 threads.
+  #_CHRONO_#   soit 1000000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+1 7616  #_CHRONO_#  7616 ms.  pour 1  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:25 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 2 threads.
+  #_CHRONO_#   soit 500000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+2 3965  #_CHRONO_#  3965 ms.  pour 2  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999999 actions avec 3 threads.
+  #_CHRONO_#   soit 333333333 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+3 2696  #_CHRONO_#  2696 ms.  pour 3  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 4 threads.
+  #_CHRONO_#   soit 250000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+4 2199  #_CHRONO_#  2199 ms.  pour 4  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 5 threads.
+  #_CHRONO_#   soit 200000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+5 2235  #_CHRONO_#  2235 ms.  pour 5  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999996 actions avec 6 threads.
+  #_CHRONO_#   soit 166666666 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+6 2037  #_CHRONO_#  2037 ms.  pour 6  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999994 actions avec 7 threads.
+  #_CHRONO_#   soit 142857142 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+7 1899  #_CHRONO_#  1899 ms.  pour 7  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 8 threads.
+  #_CHRONO_#   soit 125000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+8 1728  #_CHRONO_#  1728 ms.  pour 8  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999999 actions avec 9 threads.
+  #_CHRONO_#   soit 111111111 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+9 2076  #_CHRONO_#  2076 ms.  pour 9  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 10 threads.
+  #_CHRONO_#   soit 100000000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+10 2128  #_CHRONO_#  2128 ms.  pour 10  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999990 actions avec 11 threads.
+  #_CHRONO_#   soit 90909090 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+11 1797  #_CHRONO_#  1797 ms.  pour 11  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999996 actions avec 12 threads.
+  #_CHRONO_#   soit 83333333 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+12 1808  #_CHRONO_#  1808 ms.  pour 12  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999988 actions avec 13 threads.
+  #_CHRONO_#   soit 76923076 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+13 1934  #_CHRONO_#  1934 ms.  pour 13  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999994 actions avec 14 threads.
+  #_CHRONO_#   soit 71428571 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+14 2147  #_CHRONO_#  2147 ms.  pour 14  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999990 actions avec 15 threads.
+  #_CHRONO_#   soit 66666666 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+15 2183  #_CHRONO_#  2183 ms.  pour 15  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 16 threads.
+  #_CHRONO_#   soit 62500000 actions par thread.
+  #_CHRONO_#   MODE: Runnables affectés à un réservoir manuellement.
+16 2122  #_CHRONO_#  2122 ms.  pour 16  threads

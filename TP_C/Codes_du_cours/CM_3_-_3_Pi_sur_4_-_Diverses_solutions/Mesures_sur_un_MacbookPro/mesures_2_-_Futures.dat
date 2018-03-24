@@ -1,0 +1,97 @@
+# Mesure de MonteCarlo.java dans 2_-_Futures sur MacbookPro (DATE: 2017-02-04 HEURE: 16:25:10)
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 1 threads.
+  #_CHRONO_#   soit 1000000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+1 7548  #_CHRONO_#  7548 ms.  pour 1  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 2 threads.
+  #_CHRONO_#   soit 500000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+2 4009  #_CHRONO_#  4009 ms.  pour 2  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999999 actions avec 3 threads.
+  #_CHRONO_#   soit 333333333 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+3 2812  #_CHRONO_#  2812 ms.  pour 3  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 4 threads.
+  #_CHRONO_#   soit 250000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+4 2424  #_CHRONO_#  2424 ms.  pour 4  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 5 threads.
+  #_CHRONO_#   soit 200000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+5 2300  #_CHRONO_#  2300 ms.  pour 5  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999996 actions avec 6 threads.
+  #_CHRONO_#   soit 166666666 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+6 2064  #_CHRONO_#  2064 ms.  pour 6  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999994 actions avec 7 threads.
+  #_CHRONO_#   soit 142857142 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+7 1928  #_CHRONO_#  1928 ms.  pour 7  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 8 threads.
+  #_CHRONO_#   soit 125000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+8 1791  #_CHRONO_#  1791 ms.  pour 8  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:26 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999999 actions avec 9 threads.
+  #_CHRONO_#   soit 111111111 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+9 1795  #_CHRONO_#  1795 ms.  pour 9  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 10 threads.
+  #_CHRONO_#   soit 100000000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+10 2122  #_CHRONO_#  2122 ms.  pour 10  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999990 actions avec 11 threads.
+  #_CHRONO_#   soit 90909090 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+11 2145  #_CHRONO_#  2145 ms.  pour 11  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999996 actions avec 12 threads.
+  #_CHRONO_#   soit 83333333 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+12 2338  #_CHRONO_#  2338 ms.  pour 12  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999988 actions avec 13 threads.
+  #_CHRONO_#   soit 76923076 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+13 2430  #_CHRONO_#  2430 ms.  pour 13  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999994 actions avec 14 threads.
+  #_CHRONO_#   soit 71428571 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+14 2196  #_CHRONO_#  2196 ms.  pour 14  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 999999990 actions avec 15 threads.
+  #_CHRONO_#   soit 66666666 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+15 2369  #_CHRONO_#  2369 ms.  pour 15  threads
+  #_CHRONO_#   Date du test : 04/02/17 16:27 sur une machine avec 8 coeurs.
+  #_CHRONO_#   Temps de calcul en ms. 
+  #_CHRONO_#   pour 1000000000 actions avec 16 threads.
+  #_CHRONO_#   soit 62500000 actions par thread.
+  #_CHRONO_#   MODE: Futures avec arrêt de l'exécuteur.
+16 2297  #_CHRONO_#  2297 ms.  pour 16  threads
